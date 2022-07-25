@@ -1,0 +1,157 @@
+Index: EX/ex01_cashier/cashier.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\"\"\"Cashier power.\"\"\"\r\nsum = int(input(\"Enter a sum: \"))\r\ncoin = 0\r\n\"\"\"\r\nwhile sum >= 50:\r\n    coin += 1\r\n    sum -= 50\r\nwhile sum >= 20:\r\n    coin += 1\r\n    sum -= 20\r\nwhile sum >= 10:\r\n    coin += 1\r\n    sum -= 10\r\nwhile sum >= 5:\r\n    coin += 1\r\n    sum -= 5\r\nwhile sum >= 1:\r\n    coin += 1\r\n    sum -= 1 \"\"\"\r\ntemporary = sum - (sum % 50)\r\ncoin += (temporary / 50)\r\nsum = (sum - temporary)\r\ntemporary = sum - (sum % 20)\r\ncoin += (temporary / 20)\r\nsum = (sum - temporary)\r\ntemporary = sum - (sum % 10)\r\ncoin += (temporary / 10)\r\nsum = (sum - temporary)\r\ntemporary = sum - (sum % 5)\r\ncoin += (temporary / 5)\r\nsum = (sum - temporary)\r\ncoin += sum\r\nresults = int(coin)\r\nprint(\"Amount of coins needed: \" + str(results))\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- EX/ex01_cashier/cashier.py	(revision 829a46c367e13ffc92c858b7c57412b30bbeb53b)
++++ EX/ex01_cashier/cashier.py	(date 1600006890475)
+@@ -1,34 +1,4 @@
+-"""Cashier power."""
+-sum = int(input("Enter a sum: "))
+-coin = 0
+-"""
+-while sum >= 50:
+-    coin += 1
+-    sum -= 50
+-while sum >= 20:
+-    coin += 1
+-    sum -= 20
+-while sum >= 10:
+-    coin += 1
+-    sum -= 10
+-while sum >= 5:
+-    coin += 1
+-    sum -= 5
+-while sum >= 1:
+-    coin += 1
+-    sum -= 1 """
+-temporary = sum - (sum % 50)
+-coin += (temporary / 50)
+-sum = (sum - temporary)
+-temporary = sum - (sum % 20)
+-coin += (temporary / 20)
+-sum = (sum - temporary)
+-temporary = sum - (sum % 10)
+-coin += (temporary / 10)
+-sum = (sum - temporary)
+-temporary = sum - (sum % 5)
+-coin += (temporary / 5)
+-sum = (sum - temporary)
+-coin += sum
+-results = int(coin)
+-print("Amount of coins needed: " + str(results))
++alpha = ["a", "b", "c", "d", "e", "f", "g"]
++alpha1 = ["h", "i", "j", "k", "l", "m", "n", "o"]5
++alpha
++print(alpha1[1])
+Index: PR/pr02_primes/primes.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\"\"\"Prime numbers.\"\"\"\r\nimport math\r\n\r\n\r\ndef is_prime_number(number: int) -> bool:\r\n    \"\"\"\r\n    Thi function defines prime number.\r\n\r\n    :rtype: boolean\r\n    \"\"\"\r\n    counter = 0\r\n    \"\"\"for i in range(2, number + 1):\r\n        c = number % i\r\n        if c == 0:\r\n            counter += 1\r\n        if counter > 2:\r\n            break\"\"\"\r\n    if number <= 1:\r\n        return False\r\n    b = number % number\r\n    c = number % 1\r\n    d = number % 2\r\n    e = number % 3\r\n    f = number % 5\r\n    if c == 0:\r\n        counter += 1\r\n    if b == 0:\r\n        counter += 1\r\n    if d == 0 and number != 2:\r\n        counter += 1\r\n    if e == 0 and number != 3:\r\n        counter += 1\r\n    if f == 0 and number != 5:\r\n        counter += 1\r\n    if (math.sqrt(number) % 1) == 0:\r\n        counter += 1\r\n    if counter == 2:\r\n        return True\r\n    else:\r\n        return False\r\n\r\n\r\nif __name__ == '__main__':\r\n    print(is_prime_number(121))  # -> True\r\n    print(is_prime_number(169))  # -> True\r\n    print(is_prime_number(0))  # -> True\r\n    print(is_prime_number(4))  # -> False\r\n    print(is_prime_number(7))  # -> True\r\n    print(is_prime_number(88))  # -> False\"\"\"\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- PR/pr02_primes/primes.py	(revision 829a46c367e13ffc92c858b7c57412b30bbeb53b)
++++ PR/pr02_primes/primes.py	(date 1599990007197)
+@@ -22,9 +22,9 @@
+     d = number % 2
+     e = number % 3
+     f = number % 5
+-    if c == 0:
+-        counter += 1
+     if b == 0:
++        counter += 1
++    if c == 0:
+         counter += 1
+     if d == 0 and number != 2:
+         counter += 1
+@@ -45,5 +45,5 @@
+     print(is_prime_number(169))  # -> True
+     print(is_prime_number(0))  # -> True
+     print(is_prime_number(4))  # -> False
+-    print(is_prime_number(7))  # -> True
++    print(is_prime_number(77))  # -> True
+     print(is_prime_number(88))  # -> False"""
+Index: EX/ex02_cypher/cypher.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\"\"\"Hello.\"\"\"\r\n\r\n\r\ndef encode(message: str, key: int) -> str:\r\n    \"\"\"\r\n    Encode a message using a Caesar cipher.\r\n\r\n    :param message: message to be encoded\r\n    :param key: key for encoding\r\n    :return: encoded message\r\n    \"\"\"\r\n    encrypt = \"\"\r\n    for symbol in message:\r\n        if symbol.isalpha():  # i\r\n            num = ord(symbol)  # ord(i)=105\r\n            num += key  # num=105+6=111 197\r\n            if symbol.islower():  # if lower letter\r\n                if num < ord('a'):  # 111<97 False\r\n                    num += 26\r\n                while num > ord('z'):  # 111>122 False\r\n                    num -= 26\r\n            #  a-z 97-122 65-90 A-Z\r\n                encrypt += chr(num)  # encrypt = chr(111) = o\r\n        else:\r\n            encrypt += symbol  # encrypt = i\r\n\r\n    return encrypt\r\n\r\n\r\nif __name__ == '__main__':\r\n    print(encode(\"i like turtles\", 6))  # -> o roqk zaxzrky\r\n    print(encode(\"o roqk zaxzrky\", 20))  # -> i like turtles\r\n    print(encode(\"example\", 1))  # -> fybnqmf\r\n    print(encode(\"don't change\", 0))  # -> don't change\r\n    print(encode('the quick brown fox jumps over the lazy dog.', 7))  # -> aol xbpjr iyvdu mve qbtwz vcly aol shgf kvn.\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- EX/ex02_cypher/cypher.py	(revision 829a46c367e13ffc92c858b7c57412b30bbeb53b)
++++ EX/ex02_cypher/cypher.py	(date 1600088824807)
+@@ -13,7 +13,7 @@
+     for symbol in message:
+         if symbol.isalpha():  # i
+             num = ord(symbol)  # ord(i)=105
+-            num += key  # num=105+6=111 197
++            num += key  # num=105+6=111
+             if symbol.islower():  # if lower letter
+                 if num < ord('a'):  # 111<97 False
+                     num += 26
+Index: Test/test111.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Test/test111.py	(date 1600612040316)
++++ Test/test111.py	(date 1600612040316)
+@@ -0,0 +1,54 @@
++def make_n_pancakes(n: int, ingredients: list) -> int:
++    """
++    Make n pancakes.
++
++    If you can not make n pancakes, make as many as you can.
++    If you can make more than n pancakes, do not make more. In that case make exactly n pancakes.
++
++    Use the following functions here.
++    Tip: the first step would be making dough.
++
++    :param n: how many pancakes you have to make
++    :param ingredients: given ingredients
++    :return: amount of pancakes made
++    """
++    dough_amount = make_dough(ingredients)
++    pancakes = 0
++
++    while can_make_pancake(dough_amount):
++        dough_amount = make_a_pancake(dough_amount)
++        pancakes += 1
++
++
++def make_dough(ingredients: list) -> int:
++    """
++    You must always make as much dough as possible regardless of how many pancakes you are going to make.
++
++    To make 7dl dough, it takes:
++    One part egg, 5 parts milk, 4 parts flour, 1 part butter, 2 parts sugar.
++    PS! It's a random recipe I made up, do not try to pancake according to this.
++
++    :param ingredients: given ingredients as a list
++    :return: dough made in dl
++    """
++
++    egg_count = ingredients.count("egg")
++    milk_count = ingredients.count("milk")
++    flour_count = ingredients.count("flour")
++    butter_count = ingredients.count("butter")
++    sugar_count = ingredients.count("sugar")
++    dough_amount = 0
++    while egg_count >= 1 and milk_count >= 5 and flour_count >= 4 \
++            and butter_count >= 1 and sugar_count >= 2:
++        dough_amount += 7
++        egg_count -= 1
++        milk_count -= 5
++        flour_count -= 4
++        butter_count -= 1
++        sugar_count -= 2
++    return dough_amount
++
++ingredients2 = ["egg"] * 4 + ["milk"] * 9 + ["flour"] * 14 \
++                   + ["butter"] * 3 + ["sugar"] * 7
++print(make_dough(ingredients))
++print(make_dough(ingredients2))  # 0 -> not enough sugar.
+\ No newline at end of file

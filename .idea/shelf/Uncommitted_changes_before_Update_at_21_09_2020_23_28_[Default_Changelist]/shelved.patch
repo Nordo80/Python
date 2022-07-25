@@ -1,0 +1,113 @@
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/.gitignore	(date 1599139327989)
++++ .idea/.gitignore	(date 1599139327989)
+@@ -0,0 +1,8 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Datasource local storage ignored files
++/../../../../../../:\Users\Alina\PycharmProjects\iti0102-2020\.idea/dataSources/
++/dataSources.local.xml
++# Editor-based HTTP Client requests
++/httpRequests/
+Index: .idea/iti0102-2020.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/iti0102-2020.iml	(date 1599139327556)
++++ .idea/iti0102-2020.iml	(date 1599139327556)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="PYTHON_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(date 1599139327590)
++++ .idea/misc.xml	(date 1599139327590)
+@@ -0,0 +1,4 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (pythonProject)" project-jdk-type="Python SDK" />
++</project>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules.xml	(date 1599139327606)
++++ .idea/modules.xml	(date 1599139327606)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/iti0102-2020.iml" filepath="$PROJECT_DIR$/.idea/iti0102-2020.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: test/teset22.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>#def is_relics_book(book: str) -> bool:\r\n\"\"\"\r\n    Book is a relics book if its title matches the uppercase-lowercase-uppercase-lowercase... pattern.\r\n\r\n    It can start from both upper- and lowercase letters.\r\n    PS! Pay attention to whitespaces.\r\n\r\n    For example: 'ThE StAfF' and 'rAiNiNg dUmPlInGs' are both relics books.\r\n    However 'ThE sTaFf' and 'rAiNiNg DuMpLiNgS' are not relics books.\r\n\r\n    :param book: given book as a string\r\n    :return: True if given book is a relics book, False otherwise\r\n    \"\"\"\r\n\"\"\"book = (\"AdA AdA\")\r\nprint(book[::2])\r\nprint(book[1::2])\r\nif book.isalpha() or book == \"\":\r\n    if book[::2].isupper() or book[1::2].isupper():\r\n        print(\"esli bolwije bukvq 4erez 1 \")  # TRUE\r\n    else:\r\n        print(\"esli ne 4erez 1\")  # FALSE\r\nelse:\r\n    print(\"ostalnoje\")  # TRUE\"\"\"\r\nbook = (\"\")\r\nt = True\r\nencrypt = \"\"\r\nfirst_upper = book[0]\r\nfirst_upper_check = first_upper.isupper()\r\nfor index in range(0, len(book)):\r\n    if book[index].isalpha() == False:\r\n        t = True\r\n    elif book[index].isupper() != first_upper_check and index % 2 == 0:\r\n        t = False\r\n        break\r\n    elif book[index].isupper() == first_upper_check and index % 2 != 0:\r\n        t = False\r\n        break\r\n    else:\r\n        t = True\r\nprint(t)\r\n#print(is_relics_book(\"6419(!/)/(!#=\"))\r\n\r\n\r\n\r\n\"\"\"print(is_relics_book(\"sTiLl NoPe\"))\r\nprint(is_relics_book(\"1324215^%$\"))\"\"\"
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- test/teset22.py	(revision 897e048a41b561f8ef506dbfc7f8830565e2c6e6)
++++ test/teset22.py	(date 1600715138154)
+@@ -21,7 +21,9 @@
+         print("esli ne 4erez 1")  # FALSE
+ else:
+     print("ostalnoje")  # TRUE"""
+-book = ("")
++book = ("WhAt aBoUt wHiTeSpAcEs")
++if book == "":
++    t = True
+ t = True
+ encrypt = ""
+ first_upper = book[0]
+Index: .idea/inspectionProfiles/profiles_settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/inspectionProfiles/profiles_settings.xml	(date 1599139327622)
++++ .idea/inspectionProfiles/profiles_settings.xml	(date 1599139327622)
+@@ -0,0 +1,6 @@
++<component name="InspectionProjectProfileManager">
++  <settings>
++    <option name="USE_PROJECT_PROFILE" value="false" />
++    <version value="1.0" />
++  </settings>
++</component>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(date 1599139327638)
++++ .idea/vcs.xml	(date 1599139327638)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file

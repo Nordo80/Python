@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="938f322f-4b72-4005-9628-9b70e0661340" name="Default Changelist" comment="cashier power style 100%">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test33.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EX/ex03_booksortation/booksortation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TK/tk-example/exam.py" beforeDir="false" afterPath="$PROJECT_DIR$/TK/tk-example/exam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/pr04_census/booksortation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/teset22.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/teset22.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Aleksandr Borovkov &lt;aborov@ttu.ee&gt;" />
+        <option value="a" />
+        <option value="aborov &lt;aborov@ttu.ee&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="644f7413-d526-4783-b630-8876b5c253a9" />
+  <component name="ProjectId" id="1h0Dp9SYg1WufLYUCjwLZ3OmPAM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.hobbies">
+    <configuration name="hobbies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Alina\PycharmProjects\pythonProject1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EX/ex04_hobbies" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX/ex04_hobbies/hobbies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="iti0102-2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="popular_names (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Alina\PycharmProjects\pythonProject1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PR/pr04_census" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PR/pr04_census/popular_names.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="popular_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Alina\PycharmProjects\pythonProject1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EX/pr04_census" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX/pr04_census/popular_names.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teset22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Alina\PycharmProjects\pythonProject1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/teset22.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test33" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Alina\PycharmProjects\pythonProject1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test33.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hobbies" />
+        <item itemvalue="Python.test33" />
+        <item itemvalue="Python.teset22" />
+        <item itemvalue="Python.popular_names (1)" />
+        <item itemvalue="Python.popular_names" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="938f322f-4b72-4005-9628-9b70e0661340" name="Default Changelist" comment="" />
+      <created>1599139295781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599139295781</updated>
+      <workItem from="1599139297512" duration="9692000" />
+      <workItem from="1599205079012" duration="716000" />
+      <workItem from="1599310922651" duration="13392000" />
+      <workItem from="1599483311979" duration="5846000" />
+      <workItem from="1599555553502" duration="5475000" />
+      <workItem from="1599573580575" duration="3000" />
+      <workItem from="1599589202036" duration="1971000" />
+      <workItem from="1599648937309" duration="8000" />
+      <workItem from="1599662143902" duration="11725000" />
+      <workItem from="1599989018317" duration="3113000" />
+      <workItem from="1599992139641" duration="29935000" />
+      <workItem from="1600596518190" duration="14892000" />
+      <workItem from="1600612951801" duration="8692000" />
+      <workItem from="1600673356031" duration="22884000" />
+      <workItem from="1600705205073" duration="14850000" />
+      <workItem from="1600720665325" duration="5442000" />
+      <workItem from="1600726130248" duration="21671000" />
+      <workItem from="1601115393218" duration="23442000" />
+      <workItem from="1601196113578" duration="6120000" />
+      <workItem from="1601207685640" duration="12407000" />
+      <workItem from="1601295590762" duration="9628000" />
+      <workItem from="1601377068035" duration="6000" />
+      <workItem from="1601377083162" duration="401000" />
+    </task>
+    <task id="LOCAL-00087" summary="cashier power style 100%">
+      <created>1600800761629</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1600800761629</updated>
+    </task>
+    <task id="LOCAL-00088" summary="cashier power style 100%">
+      <created>1600800909533</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1600800909533</updated>
+    </task>
+    <task id="LOCAL-00089" summary="cashier power style 100%">
+      <created>1600801352898</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1600801352898</updated>
+    </task>
+    <task id="LOCAL-00090" summary="cashier power style 100%">
+      <created>1600802857429</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1600802857429</updated>
+    </task>
+    <task id="LOCAL-00091" summary="cashier power style 100%">
+      <created>1600803465989</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1600803465989</updated>
+    </task>
+    <task id="LOCAL-00092" summary="cashier power style 100%">
+      <created>1600803778634</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1600803778634</updated>
+    </task>
+    <task id="LOCAL-00093" summary="cashier power style 100%">
+      <created>1600803860056</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1600803860056</updated>
+    </task>
+    <task id="LOCAL-00094" summary="cashier power style 100%">
+      <created>1600804120642</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1600804120642</updated>
+    </task>
+    <task id="LOCAL-00095" summary="cashier power style 100%">
+      <created>1600877611713</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1600877611713</updated>
+    </task>
+    <task id="LOCAL-00096" summary="cashier power style 100%">
+      <created>1601130662877</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1601130662877</updated>
+    </task>
+    <task id="LOCAL-00097" summary="cashier power style 100%">
+      <created>1601130821862</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1601130821862</updated>
+    </task>
+    <task id="LOCAL-00098" summary="cashier power style 100%">
+      <created>1601130968931</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1601130968931</updated>
+    </task>
+    <task id="LOCAL-00099" summary="cashier power style 100%">
+      <created>1601131096815</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1601131096815</updated>
+    </task>
+    <task id="LOCAL-00100" summary="cashier power style 100%">
+      <created>1601135018713</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1601135018713</updated>
+    </task>
+    <task id="LOCAL-00101" summary="cashier power style 100%">
+      <created>1601206245827</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1601206245828</updated>
+    </task>
+    <task id="LOCAL-00102" summary="cashier power style 100%">
+      <created>1601206966497</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1601206966497</updated>
+    </task>
+    <task id="LOCAL-00103" summary="cashier power style 100%">
+      <created>1601207108664</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1601207108664</updated>
+    </task>
+    <task id="LOCAL-00104" summary="cashier power style 100%">
+      <created>1601207180663</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1601207180663</updated>
+    </task>
+    <task id="LOCAL-00105" summary="cashier power style 100%">
+      <created>1601207452990</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1601207452990</updated>
+    </task>
+    <task id="LOCAL-00106" summary="cashier power style 100%">
+      <created>1601207511503</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1601207511503</updated>
+    </task>
+    <task id="LOCAL-00107" summary="cashier power style 100%">
+      <created>1601207730510</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1601207730510</updated>
+    </task>
+    <task id="LOCAL-00108" summary="cashier power style 100%">
+      <created>1601207831539</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1601207831539</updated>
+    </task>
+    <task id="LOCAL-00109" summary="cashier power style 100%">
+      <created>1601208732165</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1601208732165</updated>
+    </task>
+    <task id="LOCAL-00110" summary="cashier power style 100%">
+      <created>1601290648327</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1601290648327</updated>
+    </task>
+    <task id="LOCAL-00111" summary="cashier power style 100%">
+      <created>1601290826446</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1601290826446</updated>
+    </task>
+    <task id="LOCAL-00112" summary="cashier power style 100%">
+      <created>1601291577240</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1601291577240</updated>
+    </task>
+    <task id="LOCAL-00113" summary="cashier power style 100%">
+      <created>1601291658537</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1601291658537</updated>
+    </task>
+    <task id="LOCAL-00114" summary="cashier power style 100%">
+      <created>1601291687302</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1601291687302</updated>
+    </task>
+    <task id="LOCAL-00115" summary="cashier power style 100%">
+      <created>1601291743935</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1601291743935</updated>
+    </task>
+    <task id="LOCAL-00116" summary="cashier power style 100%">
+      <created>1601292132236</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1601292132236</updated>
+    </task>
+    <task id="LOCAL-00117" summary="cashier power style 100%">
+      <created>1601294235839</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1601294235839</updated>
+    </task>
+    <task id="LOCAL-00118" summary="cashier power style 100%">
+      <created>1601294302899</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1601294302899</updated>
+    </task>
+    <task id="LOCAL-00119" summary="cashier power style 100%">
+      <created>1601297097726</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1601297097726</updated>
+    </task>
+    <task id="LOCAL-00120" summary="cashier power style 100%">
+      <created>1601297221152</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1601297221152</updated>
+    </task>
+    <task id="LOCAL-00121" summary="cashier power style 100%">
+      <created>1601297397012</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1601297397012</updated>
+    </task>
+    <task id="LOCAL-00122" summary="cashier power style 100%">
+      <created>1601297451142</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1601297451142</updated>
+    </task>
+    <task id="LOCAL-00123" summary="cashier power style 100%">
+      <created>1601297596942</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1601297596942</updated>
+    </task>
+    <task id="LOCAL-00124" summary="cashier power style 100%">
+      <created>1601298205402</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1601298205402</updated>
+    </task>
+    <task id="LOCAL-00125" summary="cashier power style 100%">
+      <created>1601300338519</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1601300338519</updated>
+    </task>
+    <task id="LOCAL-00126" summary="cashier power style 100%">
+      <created>1601300947814</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1601300947814</updated>
+    </task>
+    <task id="LOCAL-00127" summary="cashier power style 100%">
+      <created>1601301133446</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1601301133446</updated>
+    </task>
+    <task id="LOCAL-00128" summary="cashier power style 100%">
+      <created>1601301162475</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1601301162475</updated>
+    </task>
+    <task id="LOCAL-00129" summary="cashier power style 100%">
+      <created>1601301718793</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1601301718793</updated>
+    </task>
+    <task id="LOCAL-00130" summary="cashier power style 100%">
+      <created>1601301815462</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1601301815462</updated>
+    </task>
+    <task id="LOCAL-00131" summary="cashier power style 100%">
+      <created>1601301856196</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1601301856196</updated>
+    </task>
+    <task id="LOCAL-00132" summary="cashier power style 100%">
+      <created>1601303373731</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1601303373731</updated>
+    </task>
+    <task id="LOCAL-00133" summary="cashier power style 100%">
+      <created>1601304115447</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1601304115447</updated>
+    </task>
+    <task id="LOCAL-00134" summary="cashier power style 100%">
+      <created>1601304211315</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1601304211315</updated>
+    </task>
+    <task id="LOCAL-00135" summary="cashier power style 100%">
+      <created>1601377343565</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1601377343565</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello world after error" />
+    <MESSAGE value="hello world" />
+    <MESSAGE value="hello world need 100%" />
+    <MESSAGE value="test" />
+    <MESSAGE value="cashier power" />
+    <MESSAGE value="Prime numbers" />
+    <MESSAGE value="Prime numbers make faster" />
+    <MESSAGE value="Prime number" />
+    <MESSAGE value="hjjh" />
+    <MESSAGE value="prime number" />
+    <MESSAGE value="hello" />
+    <MESSAGE value="cypher" />
+    <MESSAGE value="to style 100%" />
+    <MESSAGE value="style 100%" />
+    <MESSAGE value="lelele" />
+    <MESSAGE value=" style 100%" />
+    <MESSAGE value="final step" />
+    <MESSAGE value="test1" />
+    <MESSAGE value="test ex3" />
+    <MESSAGE value="cashier power style 100%" />
+    <option name="LAST_COMMIT_MESSAGE" value="cashier power style 100%" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600075365851">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1600075365851" />
+    <state x="443" y="285" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600002473403">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="443" y="285" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1600002473403" />
+    <state x="341" y="0" key="CommitChangelistDialog2" timestamp="1601377339605">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="341" y="0" key="CommitChangelistDialog2/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1601377339605" />
+    <state x="341" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601304208621" />
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1599140337916">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1599140337916" />
+    <state width="1237" height="167" key="GridCell.Tab.0.bottom" timestamp="1601301325186">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="167" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601301325186" />
+    <state width="1237" height="167" key="GridCell.Tab.0.center" timestamp="1601301325186">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="167" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1601301325186" />
+    <state width="1237" height="167" key="GridCell.Tab.0.left" timestamp="1601301325186">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="167" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1601301325186" />
+    <state width="1237" height="167" key="GridCell.Tab.0.right" timestamp="1601301325186">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="167" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601301325186" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1600720641772">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600720641772" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1600720641772">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1600720641772" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1600720641772">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1600720641772" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1600720641772">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1600720641772" />
+    <state x="319" y="204" key="MultipleFileMergeDialog" timestamp="1600720089227">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="319" y="204" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1600720089227" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1601377133988">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601377133988" />
+    <state x="351" y="147" key="Vcs.Push.Dialog.v2" timestamp="1601377345345">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="351" y="147" key="Vcs.Push.Dialog.v2/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1601377345345" />
+    <state x="351" y="147" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601304213155" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601301032913">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1601301032913" />
+    <state x="357" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1601289901756">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="357" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1601289901756" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PR/pr01_python/python.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/iti0102_2020$test33.coverage" NAME="test33 Coverage Results" MODIFIED="1601297079742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/iti0102_2020$test111.coverage" NAME="test111 Coverage Results" MODIFIED="1600694797576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/iti0102_2020$booksortation.coverage" NAME="booksortation Coverage Results" MODIFIED="1600880471682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EX/ex03_booksortation" />
+    <SUITE FILE_PATH="coverage/iti0102_2020$primes.coverage" NAME="primes Coverage Results" MODIFIED="1599990007361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PR/pr02_primes" />
+    <SUITE FILE_PATH="coverage/iti0102_2020$Unittests_in_Test.coverage" NAME="Unittests in Test Coverage Results" MODIFIED="1600002553600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/iti0102_2020$python__1_.coverage" NAME="python (1) Coverage Results" MODIFIED="1599312831604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PR/pr01_python" />
+    <SUITE FILE_PATH="coverage/iti0102_2020$popular_names__1_.coverage" NAME="popular_names (1) Coverage Results" MODIFIED="1601286564096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PR/pr04_census" />
+    <SUITE FILE_PATH="coverage/iti0102_2020$cypher.coverage" NAME="cypher Coverage Results" MODIFIED="1600089480463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EX/ex02_cypher" />
+    <SUITE FILE_PATH="coverage/iti0102_2020$pancakes.coverage" NAME="pancakes Coverage Results" MODIFIED="1600616137943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PR/pr03_pancakes" />
+    <SUITE FILE_PATH="coverage/iti0102_2020$teset22.coverage" NAME="teset22 Coverage Results" MODIFIED="1601292852995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/iti0102_2020$python.coverage" NAME="python Coverage Results" MODIFIED="1599140536379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PR/pr01_hello" />
+    <SUITE FILE_PATH="coverage/iti0102_2020$hobbies.coverage" NAME="hobbies Coverage Results" MODIFIED="1601301262912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EX/ex04_hobbies" />
+    <SUITE FILE_PATH="coverage/iti0102_2020$main.coverage" NAME="main Coverage Results" MODIFIED="1599139659575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/iti0102_2020$cashier.coverage" NAME="cashier Coverage Results" MODIFIED="1599996839497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EX/ex01_cashier" />
+    <SUITE FILE_PATH="coverage/iti0102_2020$popular_names.coverage" NAME="popular_names Coverage Results" MODIFIED="1601131016909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EX/pr04_census" />
+  </component>
+</project>
